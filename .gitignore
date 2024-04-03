@@ -1,6 +1,5 @@
 # Ignore node_modules directory
-node_modules/
-
+/node_modules
 # Ignore .env files
 .env
 
@@ -9,5 +8,4 @@ node_modules/
 
 # Ignore files ending with .tmp extension
 *.tmp
-/build
-/node_modules
+
